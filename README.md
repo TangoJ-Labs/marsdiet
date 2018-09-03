@@ -5,7 +5,7 @@ This project is an open-source collaboration for individuals to find tasty, sust
 
 Push recommendations and corrections whenever you have input - we're all learning this together.
 
-**Check out the list of [off-Earth soil-grown](marsdiet/soil-alien/list.md) options.**
+**Check out the list of [off-Earth soil-grown](marsdiet/soil-alien/README.md) options.**
 
 ----------
 Start a new directory or page with your diet rules and recommendations, but be sure to explain your reasoning and include source material.
