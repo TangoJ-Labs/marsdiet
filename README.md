@@ -12,7 +12,7 @@ Start a new directory or page with your diet rules and recommendations, but be s
 
 There is only one general rule: **Be Reasonable**
 
-Although there will be limitations on what plants and animals can grow in alien environments, there will also be marketplaces and trade routes carrying earth-based foods for sale.  However, keep in mind that these foods are likely more rare and expensive, so be realistic and try to limit those extra foods in your diet.  For example, it is highly unlikely red meat (raised animals) will be available in Ex-Terran Colonies, and therefore it should be extremely rare in a Martian diet.
+Although there will be limitations on what plants and animals can grow in alien environments, there will also be marketplaces and trade routes carrying imported (earth-based) foods for sale.  However, keep in mind that these foods are likely more rare and expensive, so be realistic and try to limit those extra foods in your diet.  For example, it is highly unlikely red meat (raised animals) will be available in Ex-Terran Colonies, and therefore it should be extremely rare in a Martian diet.
 
 ----------
 
