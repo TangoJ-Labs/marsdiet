@@ -4,5 +4,6 @@ These are more likely to be available / less expensive due to more flexibility i
 ----------
 
 #### Canned Food
+#### Spices
 #### Protein Powder
 #### Alcoholic Beverages
