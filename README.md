@@ -3,7 +3,7 @@
 
 This project is an open-source collaboration for individuals to find tasty, sustainable diets that will likely exist in off-world colonies.  Try it out - you'll find it to be quite healthy (and yummy).
 
-Push recommendations and corrections whenever you have input - we're all learning this together.
+Open pull requests for recommendations and corrections whenever you have input - we're all learning this together.
 
 **Check out the list of [off-Earth soil-grown plants](grown/plants.md).**
 
