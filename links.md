@@ -11,3 +11,5 @@
 <br>
 
 * http://mdrs.marssociety.org/category/greenhab-report/
+* https://phys.org/news/2016-09-mars-mission-space.html ("wheat, cherry tomato, rice, pepper, soybean and pea have been successfully grown in orbit and in simulated planetary habitats")
+* https://www.sciencedaily.com/releases/2016/06/160627095316.htm
